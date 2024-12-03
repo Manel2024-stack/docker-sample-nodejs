@@ -1,6 +1,6 @@
 # docker-sample-nodejs
 
-## Installation
+## Installation test
 
 ```bash
 docker compose up -d # lancer le container docker
